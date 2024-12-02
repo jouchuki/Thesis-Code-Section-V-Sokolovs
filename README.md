@@ -60,8 +60,8 @@ Run ```to_table.py``` to create a LaTeX table of performance metric for Config2,
 
 
 ## References:
-Mei, H., Lei, X., Da, L., Shi, B., & Wei, H. (2024). Libsignal: An open library for traffic signal control. Machine Learning, 113(8), 5235-5271. Retrieved from [https://github.com/DaRL-LibSignal/LibSignal]
-Zhang, H., Feng, S., Liu, C., Ding, Y., Zhu, Y., Zhou, Z., ... & Li, Z. (2019, May). Cityflow: A multi-agent reinforcement learning environment for large scale city traffic scenario. In The world wide web conference (pp. 3620-3624). Version 0.1. Retrieved from [https://github.com/cityflow-project/CityFlow]
+Mei, H., Lei, X., Da, L., Shi, B., & Wei, H. (2024). Libsignal: An open library for traffic signal control. Machine Learning, 113(8), 5235-5271. Retrieved from [https://github.com/DaRL-LibSignal/LibSignal]\n
+Zhang, H., Feng, S., Liu, C., Ding, Y., Zhu, Y., Zhou, Z., ... & Li, Z. (2019, May). Cityflow: A multi-agent reinforcement learning environment for large scale city traffic scenario. In The world wide web conference (pp. 3620-3624). Version 0.1. Retrieved from [https://github.com/cityflow-project/CityFlow]\n
 Raffin, A., Hill, A., Gleave, A., Kanervisto, A., Ernestus, M., & Dormann, N. (2021). Stable-baselines3: Reliable reinforcement learning implementations. Journal of Machine Learning Research, 22(268), 1–8. Retrieved
 from http://jmlr.org/papers/v22/20-1364.html. Version (2.3.2). Installed with pip.
 
